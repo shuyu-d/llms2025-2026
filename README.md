@@ -25,3 +25,9 @@ Lecturers: Alexandre Allauzen, Florian Le Bronnec, and Shuyu Dong
 - Submit only one file (in zip) per group.
 - You are highly encouraged to work on it independently, then discuss and mutualize your answers within your group.
 
+## TP 3 
+- Subject in `TP/gpt_from_scratch.ipynb`
+- Submission deadline: **23 avril 2026, 15h45**.
+- [Submission link](https://forms.gle/F1EkuVpExFdxPhMc9) 
+
+
