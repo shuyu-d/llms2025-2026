@@ -30,7 +30,7 @@ This document contains the list of projects, along with some guidelines.
 
 ## Guidelines
 
-Each team of 3-4 people should **select one article** from the provided list to read and analyze. The goal is to create a clear, concise presentation based on the article. Up to 2 teams can select the same paper.
+Each team of 2-4 people should **select one article** from the provided list to read and analyze. The goal is to create a clear, concise presentation based on the article. Up to 2 teams can select the same paper.
 
 Additionally, each team should **implement an algorithm** described in the article and conduct a small experiment. The experiment should be rather short and involve creating one or two plots to explore specific experimental dimensions.
 
