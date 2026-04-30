@@ -54,6 +54,7 @@ The expected deliverables are an **oral presentation** (10min) and **a report** 
 
 [Registration form for your choice of article to read](https://docs.google.com/spreadsheets/d/1ahtxwMMwzJZLkYFzwLAX8JRkveiMMuW9vYu1U0jXGHg/edit?usp=sharing) 
 
-## Presentation:  Morning of June 8th, 2026.  
+## Presentation:  
+    Morning of June 8th, 2026.  
 
 
