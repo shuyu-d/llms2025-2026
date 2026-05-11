@@ -8,7 +8,7 @@ See the list of papers in the registration form [here](https://docs.google.com/s
     
 ## Guidelines
 
-Each team of 2-4 people should **select one article** from the provided list to read and analyze. The goal is to create a clear, concise presentation based on the article. Up to 2 teams can select the same paper.
+Each team of at most 4 people should **select one article** from the provided list to read and analyze. The goal is to create a clear, concise presentation based on the article. Up to 2 teams can select the same paper.
 
 Additionally, each team should **implement an algorithm** described in the article and conduct a small experiment. The experiment should be rather short and involve creating one or two plots to explore specific experimental dimensions.
 
@@ -99,7 +99,11 @@ If either the Contributions or Limitations section is missing, the grade will be
 
 [Registration form for your choice of article to read](https://docs.google.com/spreadsheets/d/1ahtxwMMwzJZLkYFzwLAX8JRkveiMMuW9vYu1U0jXGHg/edit?usp=sharing) 
 
-## Presentation:  
+## Presentation  
 Morning of June 8th, 2026.  
 
+## Submission of the report 
+Link:   
+
+Deadline: 
 
