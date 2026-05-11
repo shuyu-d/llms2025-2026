@@ -1,6 +1,21 @@
 # Final Project 
 This document contains the list of projects, along with some guidelines. 
 
+
+## Registration 
+
+[Registration form for your choice of article to read](https://docs.google.com/spreadsheets/d/1ahtxwMMwzJZLkYFzwLAX8JRkveiMMuW9vYu1U0jXGHg/edit?usp=sharing) 
+
+## Presentation  
+Morning of June 8th, 2026.  
+
+## Submission of the report 
+Link:   
+
+Deadline: 
+
+
+
 ## Reading list for projects
 
 See the list of papers in the registration form [here](https://docs.google.com/spreadsheets/d/1ahtxwMMwzJZLkYFzwLAX8JRkveiMMuW9vYu1U0jXGHg/edit?usp=sharing).
@@ -95,15 +110,4 @@ If either the Contributions or Limitations section is missing, the grade will be
   The clarity, structure, and formatting of the report (including use of plots, figures, and layout) **will be evaluated**.
 
 
-## Registration 
-
-[Registration form for your choice of article to read](https://docs.google.com/spreadsheets/d/1ahtxwMMwzJZLkYFzwLAX8JRkveiMMuW9vYu1U0jXGHg/edit?usp=sharing) 
-
-## Presentation  
-Morning of June 8th, 2026.  
-
-## Submission of the report 
-Link:   
-
-Deadline: 
 
